@@ -12,7 +12,7 @@ export default function Mascot() {
     let alive = true;
 
     (async () => {
-      const out = await terminalImage.file(mascotPath, {width: 10});
+      const out = await terminalImage.file(mascotPath, {width: 12});
       if (alive) setImage(out);
     })();
 

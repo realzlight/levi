@@ -1,11 +1,16 @@
 {
-  "name": "levi",
+  "name": "levi-code",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "type": "module",
   "main": "ui/index.js",
+  "bin": {
+    "levi": "./main/levi.js",
+    "leviathan": "./main/levi.js"
+  },
   "scripts": {
-    "start": "node ui/index.js"
+    "start": "node ui/index.js",
+    "postinstall": "node main/boot.js"
   },
   "dependencies": {
     "commander": "^15.0.0",
