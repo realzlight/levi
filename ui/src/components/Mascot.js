@@ -1,11 +1,29 @@
 import React from 'react';
-import {Box} from 'ink';
-import Image from 'ink-image';
+import {Box, Text} from 'ink';
+import path from 'path';
+import terminalImage from 'terminal-image';
+
+const mascotPath = path.join(process.cwd(), 'ui', 'src', 'assets', 'mascot.png');
 
 export default function Mascot() {
-  return (
-    <Box justifyContent="center">
-      <Image src="./assets/mascot.png" width={24} />
-    </Box>
+  const [image, setImage] = React.useState('');
+
+  React.useEffect(() => {
+    let alive = true;
+
+    (async () => {
+      const out = await terminalImage.file(mascotPath, {width: 10});
+      if (alive) setImage(out);
+    })();
+
+    return () => {
+      alive = false;
+    };
+  }, []);
+
+  return React.createElement(
+    Box,
+    {justifyContent: 'center'},
+    React.createElement(Text, null, image)
   );
 }
