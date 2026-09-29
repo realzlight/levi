@@ -1,0 +1,2 @@
+- Location: /data/data/com.termux/files/home/space-shooter
+- Tech stack: HTML5 Canvas, CSS3, Vanilla JavaScript

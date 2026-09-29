@@ -1,0 +1,206 @@
+[
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 998,
+    "outputTokens": 186,
+    "at": 1790592336954
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 5035,
+    "outputTokens": 10,
+    "at": 1790592338354
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 5231,
+    "outputTokens": 15,
+    "at": 1790592339565
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 5270,
+    "outputTokens": 18,
+    "at": 1790592341247
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 5324,
+    "outputTokens": 111,
+    "at": 1790592343172
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 5482,
+    "outputTokens": 116,
+    "at": 1790592345019
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 5647,
+    "outputTokens": 82,
+    "at": 1790592346860
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 5777,
+    "outputTokens": 2046,
+    "at": 1790592358456
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 5896,
+    "outputTokens": 20,
+    "at": 1790592365695
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 5935,
+    "outputTokens": 2046,
+    "at": 1790592377101
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 6054,
+    "outputTokens": 2046,
+    "at": 1790592388533
+  },
+  {
+    "turnId": 1790592335353,
+    "inputTokens": 6173,
+    "outputTokens": 2046,
+    "at": 1790592400612
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 1205,
+    "outputTokens": 72,
+    "at": 1790592479676
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 5206,
+    "outputTokens": 36,
+    "at": 1790592481384
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 5289,
+    "outputTokens": 10,
+    "at": 1790592482860
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 5485,
+    "outputTokens": 33,
+    "at": 1790592484575
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 5604,
+    "outputTokens": 18,
+    "at": 1790592491439
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 5658,
+    "outputTokens": 111,
+    "at": 1790592492973
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 5816,
+    "outputTokens": 224,
+    "at": 1790592494794
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 6082,
+    "outputTokens": 511,
+    "at": 1790592497682
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 6636,
+    "outputTokens": 25,
+    "at": 1790592499549
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 6685,
+    "outputTokens": 2046,
+    "at": 1790592510995
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 6793,
+    "outputTokens": 2046,
+    "at": 1790592525199
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 6901,
+    "outputTokens": 2046,
+    "at": 1790592537719
+  },
+  {
+    "turnId": 1790592477037,
+    "inputTokens": 7009,
+    "outputTokens": 2046,
+    "at": 1790592548787
+  },
+  {
+    "turnId": 1790592665506,
+    "inputTokens": 1277,
+    "outputTokens": 216,
+    "at": 1790592668104
+  },
+  {
+    "turnId": 1790592665506,
+    "inputTokens": 5276,
+    "outputTokens": 10,
+    "at": 1790592669611
+  },
+  {
+    "turnId": 1790592665506,
+    "inputTokens": 5472,
+    "outputTokens": 35,
+    "at": 1790592670946
+  },
+  {
+    "turnId": 1790592665506,
+    "inputTokens": 5700,
+    "outputTokens": 35,
+    "at": 1790592672992
+  },
+  {
+    "turnId": 1790592665506,
+    "inputTokens": 6215,
+    "outputTokens": 35,
+    "at": 1790592674618
+  },
+  {
+    "turnId": 1790592665506,
+    "inputTokens": 6290,
+    "outputTokens": 2046,
+    "at": 1790592686202
+  },
+  {
+    "turnId": 1790592665506,
+    "inputTokens": 6398,
+    "outputTokens": 2046,
+    "at": 1790592697466
+  },
+  {
+    "turnId": 1790592665506,
+    "inputTokens": 6506,
+    "outputTokens": 2046,
+    "at": 1790592708674
+  },
+  {
+    "turnId": 1790592665506,
+    "inputTokens": 6614,
+    "outputTokens": 2046,
+    "at": 1790592727997
+  }
+]
