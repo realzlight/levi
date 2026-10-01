@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "serper": {
+      "command": "npx",
+      "args": ["-y", "mcp-server-serper"],
+      "env": { "SERPER_API_KEY": "" }
+    },
+    "fetch": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-fetch"]
+    }
+  }
+}

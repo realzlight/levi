@@ -1,0 +1,1 @@
+- Prefers Vercel-style modern minimal UI design

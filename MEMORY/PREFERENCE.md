@@ -1,1 +1,2 @@
-# PREFERENCES
+- User prefers dark mode heavily
+- User plays Stardew Valley a lot

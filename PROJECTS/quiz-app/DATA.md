@@ -1,0 +1,2 @@
+- User goes by zlightyyy
+- Wants a modern minimal Vercel-style trivia quiz app with around 20 questions, scores, and animations.
