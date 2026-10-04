@@ -1,0 +1,6 @@
+- What it is: Snake game in HTML, CSS, and JS
+- Location: /data/data/com.termux/files/home/snake-game
+- [Completed 2026-10-03 10:02:20 UTC] Mobile-First Snake Game: Completed: Create snake-game directory and files (index.html, style.css, script.js), Implement mobile-first responsive layout with touch/on-screen D-pad controls, Implement core Snake game logic and verify via bash
+- Username is zlightyyy
+- Uses Termux on mobile (/data/data/com.termux/files/home)
+- Prefers fast, active NVIDIA NIM models (likes Llama 3.3 and Nemotron, dislikes GLP/killed models)

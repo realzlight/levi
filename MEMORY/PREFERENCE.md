@@ -1,2 +1,11 @@
 - User prefers dark mode heavily
 - User plays Stardew Valley a lot
+- prefers short answers
+- prefers npm over pnpm
+- likes ramen
+- prefers Kanye West over The Weeknd
+- User likes pizza
+- User no longer likes pizza
+- User likes pasta
+- likes pizza
+- Does not like pizza now
