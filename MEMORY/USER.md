@@ -6,3 +6,14 @@
 - User likes tacos
 - Uses Termux on Android
 - Saves downloaded version info to text files in the home directory
+- Project name is levi-ai, located at ~/levi/package.json
+- Project path: ~/levi/src/agent/loop.js
+- Project router.js located at ~/levi/src/agent/router.js
+- [Completed 2026-10-05 09:48:58 UTC] Todo CLI App: Completed: Scaffold project directory and package.json, Write CLI todo script with add, list, done, Verify CLI works with node
+- Project file: ~/levi/src/agent/router.js
+- Username is zlightyyy
+- Uses npm
+- Project setup: ~/sql directory containing database.db and main.py
+- Uses sqlite3 and sqlite_vec for semantic search of 500 fake long memories
+- main.py contains a retrieve(query) function that performs semantic search, prints top 5 results and execution time, and is runnable via python main.py
+- Calculator app built with HTML, CSS, and JS located at ~/calc

@@ -1,0 +1,27 @@
+{"t":"2026-10-05T09:39:38.261Z","route":"light","tools":"shell","insight":"Create a directory in the home folder.","q":"make a dir called frag-test2 in my home"}
+{"t":"2026-10-05T09:45:44.474Z","route":"conversation","tools":"none","insight":"Ask the user to pick red or blue.","q":"ask me to pick red ir blue"}
+{"t":"2026-10-05T09:46:03.174Z","route":"light","tools":"shell","insight":"Make home directory 'fragile' and ask red or blue.","q":"use ask()"}
+{"t":"2026-10-05T09:46:16.477Z","route":"light","tools":"none","insight":"User selected red in response to the prompt.","q":"Red"}
+{"t":"2026-10-05T09:46:57.770Z","route":"light","tools":"web","insight":"Search the web for an obscure release date.","q":"search the web for the exact release date of a ver"}
+{"t":"2026-10-05T09:48:37.071Z","route":"agent","tools":"all","insight":"Scaffold a small Node CLI app for a todo list.","q":"build me a small todo cli in node with add, list, "}
+{"t":"2026-10-05T10:40:34.642Z","route":"agent","tools":"all","insight":"Scaffold a tiny notes CLI in Node.js.","q":"build me a tiny notes cli in node with add and lis"}
+{"t":"2026-10-05T10:40:55.338Z","route":"agent","tools":"all","insight":"Building a tiny notes CLI in Node.js.","q":"on homedir"}
+{"t":"2026-10-06T09:18:53.439Z","route":"agent","tools":"all","insight":"Build a tiny Node.js habit tracker CLI from scratch.","q":"build me a tiny habit tracker cli in node, name it"}
+{"t":"2026-10-06T09:20:13.780Z","route":"light","tools":"shell","insight":"Add delete command to tiny-notes-cli reading DATA.md","q":"add a delete command to tiny-notes-cli: it should "}
+{"t":"2026-10-06T10:38:18.685Z","route":"agent","tools":"all","insight":"Create sqlite_vec database with 500 fake memories and main.py search.","q":"make dir ~/sql and inside create database.db and m"}
+{"t":"2026-10-06T10:40:15.665Z","route":"light","tools":"shell","insight":"Create sqlite-vec semantic search script with fake memories.","q":"make dir ~/sql and inside create database.db and m"}
+{"t":"2026-10-06T10:46:15.644Z","route":"light","tools":"shell","insight":"Switch fake data to One Piece data in sqlite_vec.","q":"i dont like the data i want onepiece data"}
+{"t":"2026-10-06T10:47:33.109Z","route":"light","tools":"shell","insight":"Run a command or test script for the One Piece database.","q":"how i can test it"}
+{"t":"2026-10-06T11:21:05.627Z","route":"agent","tools":"none","insight":"Build a single-file scientific calculator with HTML and JS in ~/calc.","q":"build a calculator in ~/calc with html+js, scienti"}
+{"t":"2026-10-06T11:23:27.619Z","route":"agent","tools":"none","insight":"Continue building single-file scientific calculator in ~/calc directory.","q":"continue the dir is int home"}
+{"t":"2026-10-06T11:27:39.627Z","route":"agent","tools":"all","insight":"Scaffold and build an HTML+JS calculator application.","q":"build a calculator in ~/calc with html+js"}
+{"t":"2026-10-06T11:28:50.471Z","route":"conversation","tools":"none","insight":"greeting or thanks","q":"heyy"}
+{"t":"2026-10-06T11:29:52.155Z","route":"agent","tools":"all","insight":"Runs the built calculator application on port 5173.","q":"run the calculator app calc in 5173 port"}
+{"t":"2026-10-06T11:43:43.114Z","route":"agent","tools":"all","insight":"Scaffold and build a notes application in the home directory.","q":"make a notes app! in homedir!"}
+{"t":"2026-10-06T11:44:33.965Z","route":"agent","tools":"all","insight":"Migrate notes app to HTML, CSS, and JS.","q":"migrate to html css js"}
+{"t":"2026-10-06T11:46:44.056Z","route":"agent","tools":"all","insight":"Building and styling a cozy mobile-friendly notes app in home directory.","q":"make the ui cozy creamy candle type and make it mo"}
+{"t":"2026-10-06T11:48:43.200Z","route":"agent","tools":"all","insight":"Continue migration to HTML/CSS/JS with cozy creamy mobile UI","q":"continue man its not necessary to write data.md ju"}
+{"t":"2026-10-06T11:52:52.998Z","route":"light","tools":"all","insight":"Continue building cozy creamy mobile UI code.","q":"continue the task"}
+{"t":"2026-10-06T11:53:30.819Z","route":"light","tools":"all","insight":"Continue coding task without writing data.md.","q":"Apply it"}
+{"t":"2026-10-06T11:55:29.775Z","route":"light","tools":"all","insight":"User asks for current progress on ongoing task.","q":"what are you doing where the progress?"}
+{"t":"2026-10-06T11:56:15.865Z","route":"light","tools":"all","insight":"Complete the requested application and show progress.","q":"comolete it"}

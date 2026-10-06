@@ -9,3 +9,4 @@
 - User likes pasta
 - likes pizza
 - Does not like pizza now
+- Do not install anything globally or run installation commands; just write the code
