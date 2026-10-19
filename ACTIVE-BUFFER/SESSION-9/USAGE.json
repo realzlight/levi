@@ -1,0 +1,26 @@
+[
+  {
+    "turnId": 1792325556275,
+    "inputTokens": 481,
+    "outputTokens": 22,
+    "at": 1792325559761
+  },
+  {
+    "turnId": 1792325556275,
+    "inputTokens": 813,
+    "outputTokens": 63,
+    "at": 1792325561829
+  },
+  {
+    "turnId": 1792325644941,
+    "inputTokens": 484,
+    "outputTokens": 22,
+    "at": 1792325651644
+  },
+  {
+    "turnId": 1792325644941,
+    "inputTokens": 4402,
+    "outputTokens": 56,
+    "at": 1792325663866
+  }
+]

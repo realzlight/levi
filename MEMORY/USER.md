@@ -17,3 +17,7 @@
 - Uses sqlite3 and sqlite_vec for semantic search of 500 fake long memories
 - main.py contains a retrieve(query) function that performs semantic search, prints top 5 results and execution time, and is runnable via python main.py
 - Calculator app built with HTML, CSS, and JS located at ~/calc
+- likes Abigail from Stardew Valley
+- name: zlightyyyy
+- Name is zlightyyyy
+- Working on a project about Mahatma Gandhi (biography, website)

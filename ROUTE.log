@@ -25,3 +25,83 @@
 {"t":"2026-10-06T11:53:30.819Z","route":"light","tools":"all","insight":"Continue coding task without writing data.md.","q":"Apply it"}
 {"t":"2026-10-06T11:55:29.775Z","route":"light","tools":"all","insight":"User asks for current progress on ongoing task.","q":"what are you doing where the progress?"}
 {"t":"2026-10-06T11:56:15.865Z","route":"light","tools":"all","insight":"Complete the requested application and show progress.","q":"comolete it"}
+{"t":"2026-10-07T06:27:43.896Z","route":"light","tools":"all","insight":"Summarize YouTube video using MCP","q":"summarize https://www.youtube.com/watch?v=dQw4w9Wg"}
+{"t":"2026-10-07T07:31:29.130Z","route":"light","tools":"web","insight":"Summarize YouTube video content via web lookup","q":"https://youtu.be/Bl48bRg5j9Y?si=KQfboCyoymfwmZQy w"}
+{"t":"2026-10-07T07:32:10.773Z","route":"light","tools":"mcp","insight":"MCP tool request","q":"use youtube mcp to fetch the summary https://youtu"}
+{"t":"2026-10-07T08:35:41.520Z","route":"light","tools":"web","insight":"Fetch user repository count via web or GitHub API","q":"ayooo how many repo i have?"}
+{"t":"2026-10-07T08:36:35.545Z","route":"light","tools":"all","insight":"Count user repositories using GitHub MCP.","q":"use the github mcp"}
+{"t":"2026-10-07T09:07:48.906Z","route":"light","tools":"all","insight":"List user repositories using GitHub MCP","q":"check my repos and list them all"}
+{"t":"2026-10-07T09:13:25.034Z","route":"light","tools":"all","insight":"List repositories using GitHub MCP get_repository","q":"try get_repository"}
+{"t":"2026-10-07T09:14:19.359Z","route":"light","tools":"all","insight":"Check GitHub repositories using github MCP tool.","q":"there is a github tool called get_repository"}
+{"t":"2026-10-07T09:15:39.373Z","route":"light","tools":"all","insight":"Ask what caliberx repository does using GitHub tool.","q":"what caliberx do"}
+{"t":"2026-10-07T10:24:59.262Z","route":"light","tools":"all","insight":"explain kissing in the youtube video","q":"why they kiss?"}
+{"t":"2026-10-07T10:27:11.732Z","route":"light","tools":"all","insight":"list github repositories","q":"what are my repo names in guthub"}
+{"t":"2026-10-07T10:28:22.364Z","route":"light","tools":"all","insight":"List user's 7 GitHub repository names","q":"can you namw thise 7 repos"}
+{"t":"2026-10-07T10:37:48.585Z","route":"light","tools":"all","insight":"List user GitHub repositories after previous failed attempt","q":"try again"}
+{"t":"2026-10-07T10:38:24.931Z","route":"light","tools":"all","insight":"List available GitHub capabilities and tools.","q":"what else can you do with ny github"}
+{"t":"2026-10-07T10:39:17.836Z","route":"light","tools":"shell","insight":"Commit and push code from ~/levi directory","q":"can you commit and push code to levi-code from ~/l"}
+{"t":"2026-10-07T11:59:24.943Z","route":"light","tools":"web","insight":"Search internet for well-structured Gandhi biography for a project.","q":"can you show a biography of gandhi from internet i"}
+{"t":"2026-10-07T12:01:50.624Z","route":"light","tools":"web","insight":"Fetch well-structured Gandhi biography highlights for a project.","q":"hught light the main piints"}
+{"t":"2026-10-08T09:33:10.908Z","route":"light","tools":"all","insight":"Create Gandhi website with HTML/CSS/JS, docs, and start server.","q":"okay, make a html css js website with proper docum"}
+{"t":"2026-10-08T09:34:49.615Z","route":"light","tools":"all","insight":"Ask where the generated website files were created.","q":"where you made it"}
+{"t":"2026-10-08T09:35:44.802Z","route":"light","tools":"shell","insight":"Locating the generated Gandhi website files.","q":"where is the gandhi file locatioed"}
+{"t":"2026-10-08T09:36:02.020Z","route":"light","tools":"shell","insight":"Locate the gandhi file in the home directory","q":"its in homedir?"}
+{"t":"2026-10-08T09:36:18.860Z","route":"light","tools":"shell","insight":"Move the gandhi file to the home directory.","q":"can you move it in homedir"}
+{"t":"2026-10-08T09:39:52.351Z","route":"light","tools":"shell","insight":"Run script with python3 on port 1000","q":"run it with python3 in 1000 port"}
+{"t":"2026-10-08T09:41:48.103Z","route":"light","tools":"shell","insight":"Stop everything and delete the _gandhi folder.","q":"stop everything and dleete the _gandhi folder"}
+{"t":"2026-10-08T10:03:19.313Z","route":"conversation","tools":"none","insight":"User asks about the historical assassin of Gandhi.","q":"who killed that guy"}
+{"t":"2026-10-08T10:04:37.100Z","route":"light","tools":"shell","insight":"Identify Mahatma Gandhi and address the context of who killed him.","q":"who was he?"}
+{"t":"2026-10-08T10:05:11.455Z","route":"light","tools":"all","insight":"Format the previous Q&A conversation into a structured form.","q":"write this in a strcuted form"}
+{"t":"2026-10-08T10:05:32.535Z","route":"light","tools":"none","insight":"Reformat previous response into a structured form","q":"do it again"}
+{"t":"2026-10-08T17:12:49.655Z","route":"conversation","tools":"none","insight":"greeting or thanks","q":"hello!"}
+{"t":"2026-10-08T17:13:57.063Z","route":"conversation","tools":"memory","insight":"durable fact or preference: save with remember","q":"i like abigail so much"}
+{"t":"2026-10-08T17:15:22.409Z","route":"conversation","tools":"memory","insight":"durable fact or preference: save with remember","q":"can you make a file in my homedir saying i like ab"}
+{"t":"2026-10-08T17:32:39.053Z","route":"light","tools":"all","insight":"Search YouTube for GTA6 trailer in browser.","q":"open browser and search in yout8be for gta6 traile"}
+{"t":"2026-10-10T10:38:05.388Z","route":"light","tools":"all","insight":"router failed, using light: Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)","q":"hello nemotron!"}
+{"t":"2026-10-11T05:38:44.494Z","route":"light","tools":"memory","insight":"Recall past conversation regarding ramen decisions","q":"what did we decide about ramen last time"}
+{"t":"2026-10-11T05:40:42.077Z","route":"light","tools":"memory","insight":"Recalling past conversation and decision about ramen","q":"what did we decide about ramen last time"}
+{"t":"2026-10-11T05:42:08.331Z","route":"conversation","tools":"memory","insight":"Recall past decision about pushing code","q":"what did we decide about pushing code last time"}
+{"t":"2026-10-11T05:43:19.426Z","route":"light","tools":"memory","insight":"Recall past conversation or decision.","q":"what did we decide about X last time"}
+{"t":"2026-10-11T05:45:51.403Z","route":"conversation","tools":"none","insight":"User asks about personal preferences in a casual chat","q":"what foods i like?"}
+{"t":"2026-10-11T05:46:23.541Z","route":"light","tools":"memory","insight":"Recall user's Stardew Valley character preference from memory","q":"which charactwr of stardew i like"}
+{"t":"2026-10-11T05:46:42.349Z","route":"conversation","tools":"memory","insight":"durable fact or preference: save with remember","q":"i like abigail"}
+{"t":"2026-10-11T05:47:27.580Z","route":"light","tools":"memory","insight":"User wants to recall past conversation about Gandhi ji.","q":"what we talked about gandhi ji in previous session"}
+{"t":"2026-10-11T08:03:09.546Z","route":"light","tools":"all","insight":"Build Wordle game with custom words in HTML/CSS/JS.","q":"can you make a wordle game with custom word enteri"}
+{"t":"2026-10-11T08:14:42.847Z","route":"light","tools":"memory","insight":"Recalling past conversation and continuing Wordle game creation.","q":"continue"}
+{"t":"2026-10-11T08:20:00.342Z","route":"light","tools":"shell","insight":"Adjust layout and styling for mobile and sleek UI.","q":"its working fine! just adjust thr layout stuff and"}
+{"t":"2026-10-11T08:20:46.914Z","route":"light","tools":"all","insight":"Continue mobile layout and styling adjustments, removing old UI tags.","q":"continue"}
+{"t":"2026-10-11T08:21:13.881Z","route":"light","tools":"all","insight":"Continue mobile layout, styling adjustments, and sleek UI refactor.","q":"continue"}
+{"t":"2026-10-11T08:21:52.476Z","route":"light","tools":"memory","insight":"User updated file locations, updating memory.","q":"i moved the files on ~wordle"}
+{"t":"2026-10-11T08:24:33.253Z","route":"light","tools":"shell","insight":"delete wordle folder from home directory","q":"delete the folder of wordle from hoemdir"}
+{"t":"2026-10-11T08:28:27.337Z","route":"light","tools":"none","insight":"Create a special love website with HTML, CSS, and JS.","q":"make a websie wirh html css and js for abigail exo"}
+{"t":"2026-10-11T08:37:03.636Z","route":"light","tools":"memory","insight":"remember user is married to Abigail in Stardew Valley","q":"its winter season in stardew valley i married abig"}
+{"t":"2026-10-11T08:37:44.880Z","route":"light","tools":"none","insight":"Stardew Valley winter activities with Abigail.","q":"what can i do with her"}
+{"t":"2026-10-11T08:38:01.960Z","route":"conversation","tools":"none","insight":"greeting or thanks","q":"hi"}
+{"t":"2026-10-11T08:38:23.768Z","route":"conversation","tools":"memory","insight":"durable fact or preference: save with remember","q":"i like spagetti too"}
+{"t":"2026-10-16T16:57:59.551Z","route":"conversation","tools":"none","insight":"Answering a music trivia question about The Neighbourhood.","q":"whats the most famous neighbourhood song of all ti"}
+{"t":"2026-10-16T16:59:19.794Z","route":"light","tools":"shell","insight":"Create directory in home and make Neighbourhood HTML/CSS/JS page.","q":"okay make a dir in my homedir and make a html css "}
+{"t":"2026-10-16T17:03:49.709Z","route":"light","tools":"shell","insight":"Continue creating the neighborhood and sweater weather HTML/JS page.","q":"continhe!"}
+{"t":"2026-10-16T17:05:32.612Z","route":"light","tools":"shell","insight":"Create directory and HTML/CSS/JS page for neighborhood and sweater weather.","q":"you didnt prepared yet? start if didnt"}
+{"t":"2026-10-16T17:06:29.543Z","route":"light","tools":"shell","insight":"Continue task without listing files, output to ~/levi","q":"continue and dont list files jusr make it in ~/lev"}
+{"t":"2026-10-16T17:11:46.724Z","route":"light","tools":"memory","insight":"User is asking to save preference and checking progress.","q":"whyd you stop you were goijg right are you stuck a"}
+{"t":"2026-10-16T17:15:24.216Z","route":"conversation","tools":"none","insight":"greeting or thanks","q":"hi"}
+{"t":"2026-10-16T17:15:34.455Z","route":"conversation","tools":"none","insight":"greeting or thanks","q":"hi!!"}
+{"t":"2026-10-16T17:29:23.683Z","route":"conversation","tools":"none","insight":"casual greeting following file movement","q":"hi lol"}
+{"t":"2026-10-16T17:36:39.670Z","route":"light","tools":"shell","insight":"Create directory and build UI tic-tac-toe game.","q":"make a folder named tic tac toe in homedir named t"}
+{"t":"2026-10-16T17:42:36.582Z","route":"light","tools":"all","insight":"Continue creating the tic tac toe game and UI.","q":"okY comtinue the rest work!"}
+{"t":"2026-10-18T12:12:39.767Z","route":"conversation","tools":"none","insight":"Casual greeting or nonsense input","q":"1hyy lol"}
+{"t":"2026-10-18T12:14:11.647Z","route":"light","tools":"all","insight":"Ready to build something new","q":"lets make smthng"}
+{"t":"2026-10-18T12:56:32.533Z","route":"light","tools":"none","insight":"Create a simple high-quality HTML/CSS landing page.","q":"make a simple html css landing oage for a custom t"}
+{"t":"2026-10-18T12:58:04.176Z","route":"light","tools":"shell","insight":"Create folder in home directory and build landing page.","q":"wrong make folder in homedir and do eveeythingy"}
+{"t":"2026-10-18T12:59:13.737Z","route":"light","tools":"shell","insight":"Create Neo-Brutalism landing page files in home directory.","q":"Neo-Brutalism"}
+{"t":"2026-10-18T13:00:15.153Z","route":"light","tools":"all","insight":"Continue working on the Neo-Brutalism project setup.","q":"contimhe"}
+{"t":"2026-10-19T04:33:14.814Z","route":"conversation","tools":"none","insight":"Casual greeting","q":"hii lol"}
+{"t":"2026-10-19T04:35:46.860Z","route":"light","tools":"all","insight":"Edit local directory abigail-love to improve UI.","q":"go to abigail-love in homedir and make it better u"}
+{"t":"2026-10-19T05:04:53.491Z","route":"light","tools":"all","insight":"Improve UI of abigail-love in homedir","q":"continue"}
+{"t":"2026-10-19T05:49:26.394Z","route":"light","tools":"all","insight":"Improve UI of abigail-love in home directory.","q":"go to abigail-love in homedir and make its ui bett"}
+{"t":"2026-10-19T05:51:16.637Z","route":"light","tools":"all","insight":"Explaining previous edit failure and addressing user question.","q":"what happened to yoy when you got the file to edir"}
+{"t":"2026-10-19T06:48:37.039Z","route":"light","tools":"all","insight":"router failed, using light: fetch failed","q":"hyy lol"}
+{"t":"2026-10-19T06:49:05.761Z","route":"conversation","tools":"none","insight":"Casual greeting","q":"hy lol"}
+{"t":"2026-10-19T06:50:40.485Z","route":"light","tools":"all","insight":"Improve UI of abigail-love project in homedir","q":"go at abigail-love ajd make it ui very better it i"}
+{"t":"2026-10-19T06:51:43.417Z","route":"light","tools":"shell","insight":"Explain the recent request for UI improvements without slang.","q":"why what happened gice me full documebtation witho"}
+{"t":"2026-10-19T10:18:23.342Z","route":"light","tools":"all","insight":"Improve UI of abigail-love in home directory","q":"go at abigail-love ajd make it ui very better it i"}

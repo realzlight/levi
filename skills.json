@@ -1,0 +1,11 @@
+{
+  "skills": {
+    "ui": {
+      "name": "ui",
+      "title": "ui",
+      "summary": "Custom skill for ui",
+      "disabled": false,
+      "updatedAt": "2026-10-16T17:35:31.474Z"
+    }
+  }
+}

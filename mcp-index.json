@@ -1,0 +1,300 @@
+{
+ "everything": [
+  {
+   "n": "echo",
+   "d": "Echoes back the input string"
+  },
+  {
+   "n": "get-annotated-message",
+   "d": "Demonstrates how annotations can be used to provide metadata about content."
+  },
+  {
+   "n": "get-env",
+   "d": "Returns all environment variables, helpful for debugging MCP server configuration"
+  },
+  {
+   "n": "get-resource-links",
+   "d": "Returns up to ten resource links that reference different types of resources"
+  },
+  {
+   "n": "get-resource-reference",
+   "d": "Returns a resource reference that can be used by MCP clients"
+  },
+  {
+   "n": "get-structured-content",
+   "d": "Returns structured content along with an output schema for client data validation"
+  },
+  {
+   "n": "get-sum",
+   "d": "Returns the sum of two numbers"
+  },
+  {
+   "n": "get-tiny-image",
+   "d": "Returns a tiny MCP logo image."
+  },
+  {
+   "n": "gzip-file-as-resource",
+   "d": "Compresses a single file using gzip compression. Depending upon the selected output type, returns either the compressed data as a gzipped re"
+  },
+  {
+   "n": "toggle-simulated-logging",
+   "d": "Toggles simulated, random-leveled logging on or off."
+  },
+  {
+   "n": "toggle-subscriber-updates",
+   "d": "Toggles simulated resource subscription updates on or off."
+  },
+  {
+   "n": "trigger-long-running-operation",
+   "d": "Demonstrates a long running operation with progress updates."
+  },
+  {
+   "n": "simulate-research-query",
+   "d": "Simulates a deep research operation that gathers, analyzes, and synthesizes information. Demonstrates MCP task-based operations with progres"
+  }
+ ],
+ "youtube": [
+  {
+   "n": "search-videos",
+   "d": "[Requires YOUTUBE_API_KEY] Search for YouTube videos with advanced filtering options. Supports parameters: - query: Search term (required) -"
+  },
+  {
+   "n": "get-video-comments",
+   "d": "[Requires YOUTUBE_API_KEY] Retrieve comments for a specific YouTube video with sorting options"
+  },
+  {
+   "n": "research-video",
+   "d": "Extract a citation-ready YouTube transcript without requiring a YouTube API key. Accepts a video ID or URL and returns timestamped source li"
+  },
+  {
+   "n": "research-videos",
+   "d": "Run the same focused transcript query across 2 to 5 YouTube videos and return timestamp-linked evidence for comparison. No YouTube API key i"
+  },
+  {
+   "n": "get-video-transcript",
+   "d": "Get the transcript/captions for a YouTube video with optional language selection. This tool retrieves the full transcript of a video with ti"
+  },
+  {
+   "n": "get-video-stats",
+   "d": "[Requires YOUTUBE_API_KEY] Get statistical information for a specific YouTube video (views, likes, comments, upload date, etc.)"
+  },
+  {
+   "n": "get-channel-stats",
+   "d": "[Requires YOUTUBE_API_KEY] Get statistical information for a specific YouTube channel (subscriber count, total views, video count, etc.)"
+  },
+  {
+   "n": "compare-videos",
+   "d": "[Requires YOUTUBE_API_KEY] Compare statistics for multiple YouTube videos"
+  },
+  {
+   "n": "get-trending-videos",
+   "d": "[Requires YOUTUBE_API_KEY] Retrieve trending videos by region and category. This helps analyze current popular content trends."
+  },
+  {
+   "n": "get-video-categories",
+   "d": "[Requires YOUTUBE_API_KEY] Retrieve available video categories for a specific region"
+  },
+  {
+   "n": "analyze-channel-videos",
+   "d": "[Requires YOUTUBE_API_KEY] Analyze recent videos from a specific channel to identify performance trends"
+  },
+  {
+   "n": "enhanced-transcript",
+   "d": "Advanced transcript extraction tool with filtering, search, and multi-video capabilities. Provides rich transcript data for detailed analysi"
+  },
+  {
+   "n": "get-key-moments",
+   "d": "Extract concise, timestamp-linked key moments from a video transcript without returning the full transcript. Useful for quickly navigating l"
+  },
+  {
+   "n": "get-segmented-transcript",
+   "d": "Divide a video transcript into segments for easier analysis and navigation. This tool splits the video into equal time segments and extracts"
+  }
+ ],
+ "github": [
+  {
+   "n": "add_comment_to_pending_review",
+   "d": "Add review comment to the requester's latest pending pull request review. A pending review needs to already exist to call this (check with t"
+  },
+  {
+   "n": "add_issue_comment",
+   "d": "Add a comment and/or reaction to a specific issue or issue comment in a GitHub repository. Use this tool with pull requests as well (in this"
+  },
+  {
+   "n": "add_reply_to_pull_request_comment",
+   "d": "Add a reply and/or reaction to an existing pull request comment. This can create a new comment linked as a reply to the specified comment, a"
+  },
+  {
+   "n": "create_branch",
+   "d": "Create a new branch in a GitHub repository"
+  },
+  {
+   "n": "create_or_update_file",
+   "d": "Create or update a single file in a GitHub repository. If updating, you should provide the SHA of the file you want to update. Use this tool"
+  },
+  {
+   "n": "create_pull_request",
+   "d": "Create a new pull request in a GitHub repository."
+  },
+  {
+   "n": "create_repository",
+   "d": "Create a new GitHub repository in your account or specified organization"
+  },
+  {
+   "n": "delete_file",
+   "d": "Delete a file from a GitHub repository"
+  },
+  {
+   "n": "fork_repository",
+   "d": "Fork a GitHub repository to your account or specified organization"
+  },
+  {
+   "n": "get_commit",
+   "d": "Get details for a commit from a GitHub repository"
+  },
+  {
+   "n": "get_file_contents",
+   "d": "Get the contents of a file or directory from a GitHub repository"
+  },
+  {
+   "n": "get_label",
+   "d": "Get a specific label from a repository."
+  },
+  {
+   "n": "get_latest_release",
+   "d": "Get the latest release in a GitHub repository"
+  },
+  {
+   "n": "get_me",
+   "d": "Get details of the authenticated GitHub user. Use this when a request is about the user's own profile for GitHub. Or when information is mis"
+  },
+  {
+   "n": "get_release_by_tag",
+   "d": "Get a specific release by its tag name in a GitHub repository"
+  },
+  {
+   "n": "get_tag",
+   "d": "Get details about a specific git tag in a GitHub repository"
+  },
+  {
+   "n": "get_team_members",
+   "d": "Get member usernames of a specific team in an organization. Limited to organizations accessible with current credentials"
+  },
+  {
+   "n": "get_teams",
+   "d": "Get details of the teams the user is a member of. Limited to organizations accessible with current credentials"
+  },
+  {
+   "n": "issue_read",
+   "d": "Get information about a specific issue in a GitHub repository."
+  },
+  {
+   "n": "issue_write",
+   "d": "Create a new or update an existing issue in a GitHub repository."
+  },
+  {
+   "n": "list_branches",
+   "d": "List branches in a GitHub repository"
+  },
+  {
+   "n": "list_commits",
+   "d": "Get list of commits of a branch in a GitHub repository. Returns at least 30 results per page by default, but can return more if specified us"
+  },
+  {
+   "n": "list_issue_fields",
+   "d": "List issue fields for a repository or organization. Returns field definitions including name, type (text, number, date, single_select), and "
+  },
+  {
+   "n": "list_issue_types",
+   "d": "List supported issue types for a repository or its owner organization. When repo is omitted, returns org-level issue types directly."
+  },
+  {
+   "n": "list_issues",
+   "d": "List issues in a GitHub repository. For pagination, use the 'endCursor' from the previous response's 'pageInfo' in the 'after' parameter."
+  },
+  {
+   "n": "list_pull_requests",
+   "d": "List pull requests in a GitHub repository. If the user specifies an author, then DO NOT use this tool and use the search_pull_requests tool "
+  },
+  {
+   "n": "list_releases",
+   "d": "List releases in a GitHub repository"
+  },
+  {
+   "n": "list_repository_collaborators",
+   "d": "List collaborators of a GitHub repository. Results are paginated; the response includes `nextPage`, `prevPage`, `firstPage`, and `lastPage` "
+  },
+  {
+   "n": "list_tags",
+   "d": "List git tags in a GitHub repository"
+  },
+  {
+   "n": "merge_pull_request",
+   "d": "Merge a pull request in a GitHub repository."
+  },
+  {
+   "n": "pull_request_read",
+   "d": "Get information on a specific pull request in GitHub repository."
+  },
+  {
+   "n": "pull_request_review_write",
+   "d": "Create and/or submit, delete review of a pull request. Available methods: - create: Create a new review of a pull request. If \"event\" parame"
+  },
+  {
+   "n": "push_files",
+   "d": "Push multiple files to a GitHub repository in a single commit"
+  },
+  {
+   "n": "request_copilot_review",
+   "d": "Request a GitHub Copilot code review for a pull request. Use this for automated feedback on pull requests, usually before requesting a human"
+  },
+  {
+   "n": "run_secret_scanning",
+   "d": "Scan files, content, or recent changes for secrets such as API keys, passwords, tokens, and credentials. This tool is intended for targeted "
+  },
+  {
+   "n": "search_code",
+   "d": "Fast and precise code search across ALL GitHub repositories using GitHub's native search engine. Best for finding exact symbols, functions, "
+  },
+  {
+   "n": "search_commits",
+   "d": "Search for commits across GitHub repositories using GitHub's commit search syntax. Useful for finding specific changes, authors, or messages"
+  },
+  {
+   "n": "search_issues",
+   "d": "Search issues using natural-language semantic matching. Best for conceptual or paraphrased queries (e.g. \"login fails after password reset\")"
+  },
+  {
+   "n": "search_pull_requests",
+   "d": "Search for pull requests in GitHub repositories using issues search syntax already scoped to is:pr"
+  },
+  {
+   "n": "search_repositories",
+   "d": "Find GitHub repositories by name, description, readme, topics, or other metadata. Perfect for discovering projects, finding examples, or loc"
+  },
+  {
+   "n": "search_users",
+   "d": "Find GitHub users by username, real name, or other profile information. Useful for locating developers, contributors, or team members."
+  },
+  {
+   "n": "sub_issue_write",
+   "d": "Add a sub-issue to a parent issue in a GitHub repository."
+  },
+  {
+   "n": "ui_get",
+   "d": "Fetch UI data for MCP Apps (labels, assignees, milestones, issue types, branches, issue fields, reviewers)."
+  },
+  {
+   "n": "update_issue_comment",
+   "d": "Update the body of an existing issue or pull request conversation comment. This tool cannot update pull request review comments."
+  },
+  {
+   "n": "update_pull_request",
+   "d": "Update an existing pull request in a GitHub repository."
+  },
+  {
+   "n": "update_pull_request_branch",
+   "d": "Update the branch of a pull request with the latest changes from the base branch."
+  }
+ ]
+}
